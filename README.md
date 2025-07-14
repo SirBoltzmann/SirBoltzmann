@@ -27,8 +27,8 @@ I love combining technology with science and music to bring inspiring ideas to l
 
 ### 🚀 Featured projects
 - [🌌 Personal Portfolio](https://darioaricav2.netlify.app/)
-- [🌠 Real-Time Astronomy Tool - Galactic Fragility](https://galactic-fragility.netlify.app/)
-- [✈️ Travel App - Polaris](https://polaris-team.netlify.app/)
+- [🌠 Galactic Fragility - Real-Time Astronomy Tool](https://galactic-fragility.netlify.app/)
+- [✈️ Polaris - Travel & Destination App](https://polaris-team.netlify.app/)
 
 ### 📫 Contact
 - [My website](https://darioaricav2.netlify.app/)
