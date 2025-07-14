@@ -5,7 +5,7 @@ I love combining technology with science and music to bring inspiring ideas to l
 
 ### 🪐 About me
 - 🎨 Frontend Developer | React, Vite & SASS passionate | Javascript, HTML, CSS, Git, Typescript, API Rest, Webpack | Building fast and modern UI
-- 🌠 Passionate about physics, astrophysics, and music
+- 🌠 Passionate about code, physics, astrophysics, and music
 - 💻 Always learning and growing
 
 ### 🛠️ Technologies & Tools
