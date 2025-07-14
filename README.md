@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌌 Dario Arica | SirBoltzmann
 
-<!--
-**SirBoltzmann/SirBoltzmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm Dario, a young **junior frontend developer** passionate about creating elegant and functional interfaces.  
+I love combining technology with science and music to bring inspiring ideas to life.
 
-Here are some ideas to get you started:
+### 🪐 About me
+- 🎨 Frontend Developer | React, Vite & SASS passionate | Javascript, HTML, CSS, Git, Typescript, API Rest, Webpack | Building fast and modern UI
+- 🌠 Passionate about physics, astrophysics, and music
+- 💻 Always learning and growing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
+
+
+### 🚀 Featured projects
+- [🌌 Personal Portfolio](https://darioaricav2.netlify.app/)
+- [🌠 Real-Time Astronomy Tool - Galactic Fragility](https://galactic-fragility.netlify.app/)
+- [✈️ Travel App - Polaris](https://polaris-team.netlify.app/)
+
+### 📫 Contact
+- [My website](https://darioaricav2.netlify.app/)
+- 📧 Email: **dario241006@gmail.com**
+
+> *"The stars are there for those who dare to dream of them."*
