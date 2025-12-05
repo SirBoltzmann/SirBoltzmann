@@ -26,7 +26,8 @@ I love combining technology with science and music to bring inspiring ideas to l
 
 
 ### 🚀 Featured projects
-- [🌌 Personal Portfolio](https://darioaricav2.netlify.app/)
+- [🌌 Cosmic Dream - Notes App](https://cosmic-dream-liard.vercel.app/)
+- [☕ Personal Portfolio](https://darioaricav2.netlify.app/)
 - [🌠 Galactic Fragility - Real-Time Astronomy Tool](https://galactic-fragility.netlify.app/)
 - [✈️ Polaris - Travel & Destination App](https://polaris-team.netlify.app/)
 
