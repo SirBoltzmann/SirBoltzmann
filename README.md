@@ -2,6 +2,7 @@
 
 Hello! 👋 I'm Dario, a young **junior frontend developer** passionate about creating elegant and functional interfaces.  
 I love combining technology with science and music to bring inspiring ideas to life.
+I'm currently working at Elomux as a Lead Frontend Developer <3
 
 ### 🪐 About me
 - 🎨 Frontend Developer | Next.js, React, Vite && TailwindCSS passionate | Javascript, HTML, SASS, CSS, Git, Typescript, API Rest, Webpack, Firebase/Firestore | Building fast, beautiful and modern UI
